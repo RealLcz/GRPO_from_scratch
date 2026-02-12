@@ -9,6 +9,12 @@ After that, you could directly use script :
 
 ```python3 standard.py```
 
+## A brief introduction of GRPO
+Group Relative Policy Optimization (GRPO) is a RL algorithm specifically designed for LLMs by DeepSeek, which is usually regarded as an improvement of Proximal Policy Optimization (PPO). Compared with PPO, GRPO cancelled the use of the critic model. Furthermore, for RLVR, the reward model can also be replaced with specific reward rules. The optimizing objective is as follows:
+$\mathcal{J}_{GRPO} = $
+
+
+
 ## What is my HARVEST?
 
 Small Language Model (SLMs) like o.5B or 1.5B models' ability to follow instructions is very weak. For example, we may use SYSTEM_PROMPT like
