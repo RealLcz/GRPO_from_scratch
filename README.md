@@ -1,5 +1,7 @@
 # GRPO from scratch
-This repo contains codes and training results of a pure pytorch implementation of GRPO.
+This repo contains codes and training results of a pure pytorch implementation of GRPO. 
+
+To run my code, you may first set up the environment as required `pip install -r requirements.txt`. After that, you could directly use script `python3 standard.py`.
 
 ## Training settings
 
@@ -9,3 +11,6 @@ Qwen/Qwen2.5-1.5B-Instruct  [![Hugging Face](https://img.shields.io/badge/%F0%9F
 
 ### Training Benchmark
 swulling/gsm8k_chinese  [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/datasets/swulling/gsm8k_chinese)
+
+
+## Training Results
