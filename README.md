@@ -11,7 +11,8 @@ After that, you could directly use script :
 
 ## A brief introduction of GRPO
 Group Relative Policy Optimization (GRPO) is a RL algorithm specifically designed for LLMs by DeepSeek, which is usually regarded as an improvement of Proximal Policy Optimization (PPO). Compared with PPO, GRPO cancelled the use of the critic model. Furthermore, for RLVR, the reward model can also be replaced with specific reward rules. The optimizing objective is as follows:
-$\mathcal{J}_{GRPO} = $
+
+$\mathcal{J}_{GRPO} = \frac{1}{|o|}$
 
 
 
