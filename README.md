@@ -1,7 +1,10 @@
 # GRPO from scratch
 This repo contains codes and training results of a pure pytorch implementation of GRPO. 
 
-To run my code, you may first set up the environment as required `pip install -r requirements.txt`. After that, you could directly use script `python3 standard.py`.
+To run my code, you may first set up the environment as required :
+```pip install -r requirements.txt```
+After that, you could directly use script :
+```python3 standard.py```
 
 ## Training settings
 
