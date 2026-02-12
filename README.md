@@ -21,7 +21,7 @@ Small Language Model (SLMs) like o.5B or 1.5B models' ability to follow instruct
 你的回答
 </answer>
 ```
-However, SLMs may not follow your required template ar first. After training for roughly 200 steps, SLMs will gradually learn to follow your demand but not accurately.
+However, SLMs may not follow your required template at first. After training for roughly 200 steps, SLMs will gradually learn to follow your demand but not accurately.
 
 
 ## Training settings
