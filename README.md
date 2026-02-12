@@ -9,6 +9,21 @@ After that, you could directly use script :
 
 ```python3 standard.py```
 
+## Summary
+
+Small Language Model (SLMs) like o.5B or 1.5B models' ability to follow instructions is very weak. For example, we may use SYSTEM_PROMPT like
+```
+按照如下格式回答问题：
+<think>
+你的思考过程
+</think>
+<answer>
+你的回答
+</answer>
+```
+However, SLMs may not follow your required template ar first. After training for roughly 200 steps, SLMs will gradually learn to follow your demand but not accurately.
+
+
 ## Training settings
 
 ### Foundation Models
@@ -33,3 +48,4 @@ Mark Reward Mean
 
 
 More specific results are available at https://wandb.ai/changzhiliu1-uestc/grpo/workspace?nw=nwuserchangzhiliu1
+
