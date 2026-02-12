@@ -9,7 +9,7 @@ After that, you could directly use script :
 
 ```python3 standard.py```
 
-## Summary
+## What is my HARVEST?
 
 Small Language Model (SLMs) like o.5B or 1.5B models' ability to follow instructions is very weak. For example, we may use SYSTEM_PROMPT like
 ```
