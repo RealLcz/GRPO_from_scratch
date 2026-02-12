@@ -1,4 +1,4 @@
-# GRPO from scratch
+<img width="2528" height="1328" alt="W B Chart 2026_2_13 02_38_37" src="https://github.com/user-attachments/assets/68fcadb5-a5c2-48b3-bab9-ba0767e172b3" /># GRPO from scratch
 This repo contains codes and training results of a pure pytorch implementation of GRPO. 
 
 To run my code, you may first set up the environment as required :
@@ -22,5 +22,14 @@ swulling/gsm8k_chinese  [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%
 ## Training Results
 Digit Reward Mean
 <img width="2528" height="1328" alt="W B Chart 2026_2_13 02_36_10" src="https://github.com/user-attachments/assets/c5f93422-e61c-419f-bb5c-c3f4b603c4da" />
+
 Mark Reward Mean
 <img width="2528" height="1328" alt="W B Chart 2026_2_13 02_35_53" src="https://github.com/user-attachments/assets/d0ff2a79-0253-4ad6-a220-33c527f33784" />
+
+
+<img width="2528" height="1328" alt="W B Chart 2026_2_13 02_38_14" src="https://github.com/user-attachments/assets/040121de-5e89-4fd6-8187-68c799e14c69" />
+<img width="2528" height="1328" alt="W B Chart 2026_2_13 02_38_26" src="https://github.com/user-attachments/assets/c0981ad7-d580-4ef9-9241-5eddd36bccc2" />
+<img width="2528" height="1328" alt="W B Chart 2026_2_13 02_38_37" src="https://github.com/user-attachments/assets/29d4f060-59d7-4df5-b74e-22521e4bc967" />
+
+
+More specific results are available at (https://wandb.ai/changzhiliu1-uestc/grpo/workspace?nw=nwuserchangzhiliu1)
