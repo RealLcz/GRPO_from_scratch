@@ -1,4 +1,4 @@
-<img width="2528" height="1328" alt="W B Chart 2026_2_13 02_38_37" src="https://github.com/user-attachments/assets/68fcadb5-a5c2-48b3-bab9-ba0767e172b3" /># GRPO from scratch
+# GRPO from scratch
 This repo contains codes and training results of a pure pytorch implementation of GRPO. 
 
 To run my code, you may first set up the environment as required :
@@ -32,4 +32,4 @@ Mark Reward Mean
 <img width="2528" height="1328" alt="W B Chart 2026_2_13 02_38_37" src="https://github.com/user-attachments/assets/29d4f060-59d7-4df5-b74e-22521e4bc967" />
 
 
-More specific results are available at (https://wandb.ai/changzhiliu1-uestc/grpo/workspace?nw=nwuserchangzhiliu1)
+More specific results are available at https://wandb.ai/changzhiliu1-uestc/grpo/workspace?nw=nwuserchangzhiliu1
