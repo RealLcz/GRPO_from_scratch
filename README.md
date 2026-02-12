@@ -9,7 +9,7 @@ After that, you could directly use script :
 
 ```python3 standard.py```
 
-Additionally, the trained model is available at **Release**.
+Additionally, the trained model is available at **Releases**.
 
 
 ## A brief introduction of GRPO
