@@ -17,7 +17,7 @@ Group Relative Policy Optimization (GRPO) is a RL algorithm specifically designe
 
 $$
 \mathcal{J}_{GRPO} = \mathbb{E}[q\sim P(Q),{o_{i}}_{i=1}^{G}\sim \pi_{\theta_{old}}(O|q) \\
-\frac{1}{G}\sum_{i=1}^{G} \frac{1}{|o_{i}|} \sum_{t=1}^{|o_{i}|} \left{min
+\frac{1}{G}\sum_{i=1}^{G} \frac{1}{|o_{i}|} \sum_{t=1}^{|o_{i}|} \left{min \right}
 $$
 
 
