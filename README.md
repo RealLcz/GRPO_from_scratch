@@ -15,8 +15,10 @@ Additionally, the trained model is available at **Releases**.
 ## A brief introduction of GRPO
 Group Relative Policy Optimization (GRPO) is a RL algorithm specifically designed for LLMs by DeepSeek, which is usually regarded as an improvement of Proximal Policy Optimization (PPO). Compared with PPO, GRPO cancelled the use of the critic model. Furthermore, for RLVR, the reward model can also be replaced with specific reward rules. The optimizing objective is as follows:
 
-$\mathcal{J}_{GRPO} = \mathbb{E}[q\sim P(Q),{o_{i}}_{i=1}^{G}\sim \pi_{\theta_{old}}(O|q) \\
-\frac{1}{G}\sum_{i=1}^{G} \frac{1}{|o_{i}|} \sum_{t=1}^{|o_{i}|} \left{min$
+$$
+\mathcal{J}_{GRPO} = \mathbb{E}[q\sim P(Q),{o_{i}}_{i=1}^{G}\sim \pi_{\theta_{old}}(O|q) \\
+\frac{1}{G}\sum_{i=1}^{G} \frac{1}{|o_{i}|} \sum_{t=1}^{|o_{i}|} \left{min
+$$
 
 
 
